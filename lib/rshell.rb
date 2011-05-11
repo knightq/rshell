@@ -1,5 +1,5 @@
 require 'rshell/console'
-require 'rshell/string'
+require 'rshell/string_extension'
 
 
 module Rshell
