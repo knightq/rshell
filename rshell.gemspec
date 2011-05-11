@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = %q{2011-05-11}
   s.description = %q{Useful console helper to easily use Ruby as console scripting language.}
   s.email = %q{andrea@blomming.com}
-  s.extra_rdoc_files = ["README.rdoc", "lib/rshell.rb"]
-  s.files = ["README.rdoc", "Rakefile", "lib/rshell.rb", "Manifest", "rshell.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.rdoc", "lib/rshell.rb"]
+  s.files = ["CHANGELOG", "README.rdoc", "Rakefile", "lib/rshell.rb", "Manifest", "rshell.gemspec"]
   s.homepage = %q{http://github.com/knightq/rshell}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Rshell", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
