@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
     "lib/rshell.rb",
     "lib/rshell/console.rb",
     "lib/rshell/string.rb",
-    "rshell-0.1.1.gem",
+    "rshell-0.1.0.gem",
     "rshell.gemspec"
   ]
   s.homepage = %q{http://github.com/knightq/rshell}
