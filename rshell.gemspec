@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version = "0.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{Andrea Salicetti}]
+  s.authors = ["Andrea Salicetti"]
   s.date = %q{2011-05-11}
   s.description = %q{It help when you need to create some shell script with Ruby.}
   s.email = %q{andrea@blomming.com}
@@ -21,12 +21,14 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/rshell.rb",
+    "lib/rshell/console.rb",
+    "lib/rshell/string.rb",
     "rshell-0.1.0.gem",
     "rshell.gemspec"
   ]
   s.homepage = %q{http://github.com/knightq/rshell}
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.1}
+  s.require_paths = ["lib"]
+  s.rubygems_version = %q{1.6.2}
   s.summary = %q{Useful console helper to easily use Ruby as console scripting language.}
 
   if s.respond_to? :specification_version then
