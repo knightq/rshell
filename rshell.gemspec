@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rshell}
-  s.version = "0.1.1"
+  s.version = "0.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Andrea Salicetti"]
@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/rshell.rb",
     "lib/rshell/console.rb",
-    "lib/rshell/string.rb",
+    "lib/rshell/string_extension.rb",
     "rshell-0.1.0.gem",
     "rshell-0.1.1.gem",
     "rshell.gemspec"
