@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rshell}
-  s.version = "0.1.3"
+  s.version = "0.1.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Andrea Salicetti"]
-  s.date = %q{2011-05-11}
+  s.date = %q{2011-05-12}
   s.description = %q{It help when you need to create some shell script with Ruby.}
   s.email = %q{andrea@blomming.com}
   s.extra_rdoc_files = [
@@ -22,7 +22,6 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/rshell.rb",
     "lib/rshell/console.rb",
-    "lib/rshell/string_extension.rb",
     "rshell-0.1.0.gem",
     "rshell-0.1.1.gem",
     "rshell-0.1.2.gem",
