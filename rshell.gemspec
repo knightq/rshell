@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rshell}
-  s.version = "0.1.8"
+  s.version = "0.1.9"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Andrea Salicetti"]
@@ -26,7 +26,6 @@ Gem::Specification.new do |s|
     "lib/rshell/string.rb",
     "patch.sh",
     "rshell-0.1.7.gem",
-    "rshell-0.1.8.gem",
     "rshell.gemspec"
   ]
   s.homepage = %q{http://github.com/knightq/rshell}
