@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "lib/rshell/console.rb",
     "lib/rshell/string.rb",
     "patch.sh",
+    "rshell-0.1.10.gem",
     "rshell-0.1.7.gem",
     "rshell-0.1.9.gem",
     "rshell.gemspec"
