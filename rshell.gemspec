@@ -21,11 +21,14 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/rshell.rb",
+    "lib/rshell/color_codes.yml",
     "lib/rshell/console.rb",
+    "lib/rshell/string.rb",
     "rshell-0.1.0.gem",
     "rshell-0.1.1.gem",
     "rshell-0.1.2.gem",
     "rshell-0.1.3.gem",
+    "rshell-0.1.4.gem",
     "rshell.gemspec"
   ]
   s.homepage = %q{http://github.com/knightq/rshell}
